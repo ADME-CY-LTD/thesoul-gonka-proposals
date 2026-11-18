@@ -18,3 +18,7 @@ Master overview: [#7](https://github.com/ADME-CY-LTD/thesoul-gonka-proposals/iss
 | 2.3 | Digital strategy           | 100,000 GNK   | [#6](https://github.com/ADME-CY-LTD/thesoul-gonka-proposals/issues/6) |
 
 The two GNK amounts equal $7,000 and $25,000 respectively at the 0.25 GNK/USDT reference rate.
+
+## Deliverables
+
+See the [Phase 1 Track A deliverables](deliverables/) for the Gonka positioning document, brandbook, marketing templates, and brand assets.
